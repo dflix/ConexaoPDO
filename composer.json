@@ -1,11 +1,11 @@
 {
-    "name": "marcio/conexao-pdo",
+    "name": "dflix/conexao-pdo",
     "description": "Connection BD PDO",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Dflix",
+            "name": "Marcio Leite",
             "email": "mbleusou@gmail.com"
         }
     ],
