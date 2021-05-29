@@ -1,9 +1,9 @@
 <?php
 
-$host = "localhost";
-$dbUser = "root";
-$dbPass = "pass";
-$dbName = "nome_banco";
+$host = "www.bembomdelivery.com.br";
+$dbUser = "bembom_bd";
+$dbPass = "dflix7778";
+$dbName = "bembom_bd";
 
 define("CONF_DB_HOST", $host);
 define("CONF_DB_USER", $dbUser);
